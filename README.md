@@ -137,3 +137,4 @@ nSteps = 100
 ## 📊 Bifurcation diagram: shows period doubling and chaos.
 
 ## 🔥 Lyapunov exponent plot: highlights chaotic parameter ranges.
+
